@@ -30,6 +30,8 @@
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
 
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=#03C75A&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
+
 ---------------------------------------
 
 이 글을 보신 모든 분들 행복이 가득하시길 ~~ ♥
