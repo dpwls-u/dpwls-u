@@ -18,7 +18,9 @@
 - 🎧[Ariana Grande, Justin Bieber - Stuck with U](https://www.youtube.com/watch?v=ntSE8IFMOsU)
 - 🎧[적재 - 사랑한대](https://www.youtube.com/watch?v=4eH_PxLdw14)
 - 🎧[코드쿤스트 - CIRCLE](https://www.youtube.com/watch?v=ZPpie1yjKvA)
-- 🎧[디오 - 내일의 우리](https://www.youtube.com/watch?v=Q7F09kpl5ec)
+- 🎧[디오 - 내일의 우리](https://www.youtube.com/watch?v=Q7F09kpl5ec)\
+- 🎧[잔나비 - 꿈과 책과 힘과 벽](https://www.youtube.com/watch?v=SJUWooZnfVQ)
+- 🎧[너드커넥션 - 조용히 완전히 영원히](https://www.youtube.com/watch?v=SL3KEvmAgoY)
 
 저의 인스타, 블로그 링크 남깁니다 (팔로우 고고고 서이 고고고~~)
 =============
