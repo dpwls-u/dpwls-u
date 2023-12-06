@@ -22,7 +22,7 @@
 - 🎧[잔나비 - 꿈과 책과 힘과 벽](https://www.youtube.com/watch?v=SJUWooZnfVQ)
 - 🎧[너드커넥션 - 조용히 완전히 영원히](https://www.youtube.com/watch?v=SL3KEvmAgoY)
 
-대박이 사진
+🐶저희집 막둥이 사진 보고 가세요🐶
 ===========
 ![캡처](https://github.com/dpwls-u/PR-home/assets/144207916/9b58e038-b541-4f8a-82f6-e10c15a13fdd) ![캡처ggg](https://github.com/dpwls-u/PR-home/assets/144207916/66718678-a5b7-48e4-8eec-3504bf9b4920)
 ![fdfdfd](https://github.com/dpwls-u/PR-home/assets/144207916/8156d03f-b8f5-43aa-93d6-b90647abf8a7)
