@@ -21,6 +21,8 @@
 =============
 
 [![instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logocolor=white&link=https://www.instagram.com.dpwls.u)](https://www.instagram.com/accounts/onetap/?next=%2F)
+[![blog Badge](https://img.shields.io/badge/%2303C75A-1877f2?style=flat-square&logo=instagram&logocolor=white&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293/accounts/onetap/?next=%2F)
+
 
 [![instagram Badge]https://img.shields.io/badge/instagram
 
