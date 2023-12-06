@@ -4,7 +4,9 @@
 - 음악 추천을 해드릴게요 음악 듣고 가셔요~~
 
 
-[insta]([link](https://www.instagram.com/accounts/onetap/?next=%2F)
+저의 인스타, 블로그 링크 남깁니다
+[insta](https://www.instagram.com/accounts/onetap/?next=%2F)
+
 [blog](https://blog.naver.com/yukim0293)
 
 <!---
