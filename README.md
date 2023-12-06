@@ -21,7 +21,6 @@
 ![짱구](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzExMjRfMTIw%2FMDAxNzAwODA5ODk3ODc0.DIygUOtBf1GxFrYSFpGIbOK9ye0YCfDTxXdDL38TqFMg.Of8nfS86L27iYOo8jhepBGXIgSbLJdfvo-fuKmdCg84g.JPEG.wlals9182%2F444.jpg&type=sc960_832)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpwls-u%2Fdpwls-u&count_bg=%2379C83D&title_bg=%23AC7474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!---
 dpwls-u/dpwls-u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
