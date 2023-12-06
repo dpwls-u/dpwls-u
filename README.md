@@ -24,7 +24,7 @@
 🐶저희집 막둥이 사진 보고 가세요🐶
 ===========
 ![캡처](https://github.com/dpwls-u/PR-home/assets/144207916/229d6322-2a6e-4e97-b4ba-13b23d28ca3a) 
-![fdfdfd](https://github.com/dpwls-u/PR-home/assets/144207916/af2d9fd0-22d1-41c2-a2b6-7ad6af26543a)
+![fdfdfd](https://github.com/dpwls-u/PR-home/assets/144207916/1c114b62-d9a1-496f-b552-41860bc9516b)
 ![캡처ggg](https://github.com/dpwls-u/PR-home/assets/144207916/220d9983-29ec-48d7-962e-a06bfd1eb030)
 
 🔗링크  
