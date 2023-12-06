@@ -20,17 +20,6 @@
 저의 인스타, 블로그 링크 남깁니다
 =============
 
-![blog](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=blog&logoColor=white)
-![blog](https://blog.naver.com/yukim0293?style=for-the-badge&logo=blog&logoColor=white)
-
-<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-<a href="https://blog.naver.com/yukim0293/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="blog"/>
-</a>
-
 [![instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logocolor=white&link=https://www.instagram.com.dpwls.u)](https://www.instagram.com/accounts/onetap/?next=%2F)
 
 [![instagram Badge]https://img.shields.io/badge/instagram
