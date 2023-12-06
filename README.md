@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 
-어서오세요 !! 
+👐!!어서오세요!!👐 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpwls-u%2Fdpwls-u&count_bg=%2379C83D&title_bg=%23AC7474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 =============
 ![짱구](https://blogfiles.pstatic.net/MjAyMzA5MzBfMTMz/MDAxNjk2MDUxMjg3MDk4.3HEUsAmKnQ4ukN1hS4clG4lAwvoEOptzIpnRXlj-tZAg.aEum1aYEmH8uTHDlQOYH7_7hHLLPztXgEp_63y50NhUg.GIF.ddaddabee/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%8C%8C%EC%9D%BC%EF%BC%BF20230930%EF%BC%BF035311.gif)
@@ -10,7 +10,7 @@
 - 👀 전.. 음악 듣기를 좋아합니다
 - 음악 추천을 해드릴게요 음악 듣고 가셔요~~
 
-유예진 플리
+🎶유예진 플리🎵
 =============
 - 🎧[데이식스-좋아합니다](https://www.youtube.com/watch?v=daoMYJv8i0c)
 - 🎧[윤딴딴 - 겨울을 걷는다](https://www.youtube.com/watch?v=G2fjG30vfYA)
