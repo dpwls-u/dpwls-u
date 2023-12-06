@@ -29,8 +29,7 @@
 
 
 
-저의 인스타, 블로그 링크 남깁니다 (팔로우 고고고 서이 고고고~~)
-(사실 구라임 보지도 말고 걸지도 마셈.)
+링크  
 =============
 
 [![instagram Badge](https://img.shields.io/badge/instagram-pink?style=flat-square&logo=instagram&logocolor=white&link=https://www.instagram.com.dpwls.u)](https://www.instagram.com/accounts/onetap/?next=%2F)
