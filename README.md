@@ -22,6 +22,13 @@
 - 🎧[잔나비 - 꿈과 책과 힘과 벽](https://www.youtube.com/watch?v=SJUWooZnfVQ)
 - 🎧[너드커넥션 - 조용히 완전히 영원히](https://www.youtube.com/watch?v=SL3KEvmAgoY)
 
+대박이 사진
+===========
+![캡처](https://github.com/dpwls-u/PR-home/assets/144207916/9b58e038-b541-4f8a-82f6-e10c15a13fdd) ![캡처ggg](https://github.com/dpwls-u/PR-home/assets/144207916/66718678-a5b7-48e4-8eec-3504bf9b4920)
+![fdfdfd](https://github.com/dpwls-u/PR-home/assets/144207916/8156d03f-b8f5-43aa-93d6-b90647abf8a7)
+
+
+
 저의 인스타, 블로그 링크 남깁니다 (팔로우 고고고 서이 고고고~~)
 (사실 구라임 보지도 말고 걸지도 마셈.)
 =============
@@ -29,11 +36,6 @@
 [![instagram Badge](https://img.shields.io/badge/instagram-pink?style=flat-square&logo=instagram&logocolor=white&link=https://www.instagram.com.dpwls.u)](https://www.instagram.com/accounts/onetap/?next=%2F)
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
-
-대박이 사진
-===========
-![캡처](https://github.com/dpwls-u/PR-home/assets/144207916/9b58e038-b541-4f8a-82f6-e10c15a13fdd)
-
 
 ---------------------------------------
 
