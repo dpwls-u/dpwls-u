@@ -17,7 +17,7 @@
 - 🎧[코드쿤스트 - CIRCLE](https://www.youtube.com/watch?v=ZPpie1yjKvA)
 - 🎧[디오 - 내일의 우리](https://www.youtube.com/watch?v=Q7F09kpl5ec)
 
-저의 인스타, 블로그 링크 남깁니다
+저의 인스타, 블로그 링크 남깁니다 (팔로우 고고고 서이 고고고~~)
 =============
 
 [![instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logocolor=white&link=https://www.instagram.com.dpwls.u)](https://www.instagram.com/accounts/onetap/?next=%2F)
