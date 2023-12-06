@@ -18,6 +18,8 @@
 
 [![Blog Badge] (https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=white&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
 
+[![Blog Badge] (https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=wh
+
 ---------------------------------------
 
 그럼 빠이
