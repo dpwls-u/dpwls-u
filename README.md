@@ -6,7 +6,8 @@
 
 - 음악 추천을 해드릴게요 음악 듣고 가셔요~~
 
-![Alt text](/path/to/img.jpg)
+![짱구](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzExMjRfMTIw%2FMDAxNzAwODA5ODk3ODc0.DIygUOtBf1GxFrYSFpGIbOK9ye0YCfDTxXdDL38TqFMg.Of8nfS86L27iYOo8jhepBGXIgSbLJdfvo-fuKmdCg84g.JPEG.wlals9182%2F444.jpg&type=sc960_832)
+
 
 
 저의 인스타, 블로그 링크 남깁니다
