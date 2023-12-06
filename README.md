@@ -14,6 +14,10 @@
 
 [blog](https://blog.naver.com/yukim0293)
 
+![Static Badge](https://img.shields.io/badge/-https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjust%2520the%2520message-8A2BE2.https://blog.naver.com/yukim0293)
+
+[![Blog Badge] (https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=white&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
+
 ---------------------------------------
 
 그럼 빠이
