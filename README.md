@@ -39,8 +39,8 @@
 
 ---------------------------------------
 
-이 글을 보신 모든 분들 행복이 가득하시길 ~~ ♥
-그럼 이만
+ ## 이 글을 보신 모든 분들 행복이 가득하시길 ~~ ♥  그럼 안뇽
+
 
 ![짱구](https://mblogthumb-phinf.pstatic.net/MjAxODEyMDVfMjg4/MDAxNTQ0MDA3NDgyNTA2.39QQmkFqIlRQN6NWVjvvNhStPhk6IMMGIroUXybwKJkg._w7eLLH8wfxaD8j2VJ7rjII7TvEONm_xNWRCnBYd70sg.GIF.nang723/IMG_0832.GIF?type=w800)
 
