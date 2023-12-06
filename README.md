@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
+
 어서오세요 !! 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpwls-u%2Fdpwls-u&count_bg=%2379C83D&title_bg=%23AC7474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 =============
@@ -34,7 +37,7 @@
 ![짱구](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzExMjRfMTIw%2FMDAxNzAwODA5ODk3ODc0.DIygUOtBf1GxFrYSFpGIbOK9ye0YCfDTxXdDL38TqFMg.Of8nfS86L27iYOo8jhepBGXIgSbLJdfvo-fuKmdCg84g.JPEG.wlals9182%2F444.jpg&type=sc960_832)
 ![짱구](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWv7e0x96bu6SITnqu8HCq8rLR-6_wfc4DqsJOmzo0ma-fL0bCitwnCnIya5YWyzgqCc&usqp=CAU)
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 
 
