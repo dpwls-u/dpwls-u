@@ -9,13 +9,13 @@
 
 유예진 플리
 =============
-- [데이식스-좋아합니다](https://www.youtube.com/watch?v=daoMYJv8i0c)
-- [윤딴딴 - 겨울을 걷는다](https://www.youtube.com/watch?v=G2fjG30vfYA)
-- [Lauv - Never Not](https://www.youtube.com/watch?v=ZWue6i_LRZ4)
-- [Ariana Grande, Justin Bieber - Stuck with U](https://www.youtube.com/watch?v=ntSE8IFMOsU)
-- [적재 - 사랑한대](https://www.youtube.com/watch?v=4eH_PxLdw14)
-- [코드쿤스트 - CIRCLE](https://www.youtube.com/watch?v=ZPpie1yjKvA)
-- [디오 - 내일의 우리](https://www.youtube.com/watch?v=Q7F09kpl5ec)
+- 🎧[데이식스-좋아합니다](https://www.youtube.com/watch?v=daoMYJv8i0c)
+- 🎧[윤딴딴 - 겨울을 걷는다](https://www.youtube.com/watch?v=G2fjG30vfYA)
+- 🎧[Lauv - Never Not](https://www.youtube.com/watch?v=ZWue6i_LRZ4)
+- 🎧[Ariana Grande, Justin Bieber - Stuck with U](https://www.youtube.com/watch?v=ntSE8IFMOsU)
+- 🎧[적재 - 사랑한대](https://www.youtube.com/watch?v=4eH_PxLdw14)
+- 🎧[코드쿤스트 - CIRCLE](https://www.youtube.com/watch?v=ZPpie1yjKvA)
+- 🎧[디오 - 내일의 우리](https://www.youtube.com/watch?v=Q7F09kpl5ec)
 
 저의 인스타, 블로그 링크 남깁니다
 =============
