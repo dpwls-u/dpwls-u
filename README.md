@@ -30,7 +30,6 @@
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
 
-[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=#03C75A&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
 
 ---------------------------------------
 
