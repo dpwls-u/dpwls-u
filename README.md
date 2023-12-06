@@ -20,7 +20,7 @@
 저의 인스타, 블로그 링크 남깁니다 (팔로우 고고고 서이 고고고~~)
 =============
 
-[![instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logocolor=white&link=https://www.instagram.com.dpwls.u)](https://www.instagram.com/accounts/onetap/?next=%2F)
+[![instagram Badge](https://img.shields.io/badge/instagram-pink?style=flat-square&logo=instagram&logocolor=white&link=https://www.instagram.com.dpwls.u)](https://www.instagram.com/accounts/onetap/?next=%2F)
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
 
