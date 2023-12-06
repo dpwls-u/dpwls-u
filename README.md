@@ -14,17 +14,6 @@
 
 [blog](https://blog.naver.com/yukim0293)
 
-![Static Badge](https://img.shields.io/badge/-https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjust%2520the%2520message-8A2BE2.https://blog.naver.com/yukim0293)
-
-[![Blog Badge] (https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=white&link=https://blog.naver.com/yukim0293)](https://blog.naver.com/yukim0293)
-
-[![Blog Badge] (https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=wh
-
-‹a href=”_.https://instagram.com/mcar_r/“ target=”_blank“><img src=”https://ing.shields.io/badge/charmi‘s instagram-ebb5cb?style=for-the-badge&logo-instagram&logoColor=black“/></a>
-‹a href=”https://instagram.com/dpwls.u/“ target=”_blank“><img src=”https://ing.shields.io/badge/dpwls.u‘s instagram-ebb5cb?style=for-the-badge&logo-instagram&logoColor=black“/></a>
-
-
-<a href="https://www.instagram.com/dpwls.u/" target="_blank"><img src="https://img.shieds.io/badge/instagram-ebb5cb?style=for-the-badge&logo=#E4405F&logoColor=로고색상"/></a>
 
 ​
 [출처] [GitHub 꾸미기 대작전] 01 프로필 이게 맞나...?|작성자 허허씨
