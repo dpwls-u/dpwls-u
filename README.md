@@ -2,12 +2,9 @@
 =============
 ![짱구](https://blogfiles.pstatic.net/MjAyMzA5MzBfMTMz/MDAxNjk2MDUxMjg3MDk4.3HEUsAmKnQ4ukN1hS4clG4lAwvoEOptzIpnRXlj-tZAg.aEum1aYEmH8uTHDlQOYH7_7hHLLPztXgEp_63y50NhUg.GIF.ddaddabee/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%8C%8C%EC%9D%BC%EF%BC%BF20230930%EF%BC%BF035311.gif)
 
-- 👋 안녕하세용가리치킨 저는 유예진입니다시마가흔들흔들 @dpwls-u
+- 👋 안녕하세요 저는 유예진입니다
 - 👀 전.. 음악 듣기를 좋아합니다
-
 - 음악 추천을 해드릴게요 음악 듣고 가셔요~~
-
-* dd
 ---------------------------------------
 
 저의 인스타, 블로그 링크 남깁니다
